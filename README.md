@@ -9,7 +9,7 @@ This project introduces modeling CAR-NK cytoxicity against different cell lines.
 ### Main Folders
 - **`Model_fitting_Prediction/`**  
   Directory for model ftting and model prediction for different cell lines.
-  - **`Pareto_optimization/`**  
+- **`Pareto_optimization/`**  
   Contains analysis for Multi-obejctive optimization.
 
 ---
